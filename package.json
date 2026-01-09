@@ -1,0 +1,11 @@
+{
+    "name": "local-llm-nodejs-quickstart",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Quick-start for local LLM integration with Ollama",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {}
+}
