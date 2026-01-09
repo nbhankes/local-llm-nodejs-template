@@ -94,18 +94,12 @@ Type a message and press Enter. If you get a response, everything is working!
 
 Type `/bye` to exit the chat.
 
-### 5. Install Project Dependencies
+### 5. Getting started with the template
 
 Navigate to your project directory:
 
 ```bash
-cd local-agent-practice
-```
-
-Install dependencies (if any):
-
-```bash
-npm install
+cd local-llm-nodejs-template
 ```
 
 ### 6. Configure the Model
